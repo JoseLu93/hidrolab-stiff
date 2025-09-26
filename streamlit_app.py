@@ -11,7 +11,7 @@ MW = {
     "Na":   22.989769,   # valencia 1
     "Ca":   40.078,      # valencia 2
     "Mg":   24.305,      # valencia 2
-    "Fe":   55.845,      # valencia 2 (si usas Fe3+ cambia a 3)
+    "Fe":   55.845,      # valencia 2
     "Cl":   35.453,      # valencia 1
     "HCO3": 61.016,      # valencia 1
     "SO4":  96.06,       # valencia 2
